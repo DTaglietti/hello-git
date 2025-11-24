@@ -1,1 +1,2 @@
 Questo è un nuovo file di prova.
+Testo aggiuntivo per prova refactor.
