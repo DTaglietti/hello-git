@@ -6,3 +6,4 @@ Sezione dettagliata per il tutorial.
 Modifica piccola per test. Faccio questo durante una prova per fare un esercizio. è come se modificassi una funzione all'interno ddi una funzione
 ## Nuova sezione del tutorial Git
 ## Sezione 1 - Introduzione avanzata
+Riga modificata nel branch A
